@@ -155,8 +155,12 @@ body {
     .instagram-continue {
         width: 100%;
     }
+
+    .get-the-app{
+        display: none;
+    }
     
     .group {
-        border: 1px solid transparent;
+        border: 1px solid lightgray;
     }
 }
